@@ -1,0 +1,401 @@
+id,tipo,acao,cidade,bairro,dorm,suite,vaga,preco,imobiliaria,data_scrapped
+0,Casa,Venda,São Luís/MA,Parque Amazonas,4,1,0,350000,Pereira Feitosa,23/06/2019
+1,Casa,Venda,São Luís/MA,Vinhais,4,2,2,450000,Pereira Feitosa,23/06/2019
+2,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,0,3,850000,Pereira Feitosa,23/06/2019
+3,Apartamento,Venda,São Luís/MA,Turu,0,0,1,260000,Pereira Feitosa,23/06/2019
+4,Apartamento,Venda,São Luís/MA,Calhau,2,1,0,300000,Pereira Feitosa,23/06/2019
+5,Casa,Venda,São Luís/MA,Cidade Operária,3,2,20,280000,Pereira Feitosa,23/06/2019
+6,Apartamento,Venda,São Luís/MA,Filipinho,2,0,0,90000,Pereira Feitosa,23/06/2019
+7,Apartamento,Venda,São Luís/MA,Renascença,3,3,2,4000,Pereira Feitosa,23/06/2019
+8,Casa,Venda,São Luís/MA,São Francisco,3,2,4,350000,Pereira Feitosa,23/06/2019
+9,Apartamento,Venda,São Luís/MA,Calhau,3,3,3,1200000,Pereira Feitosa,23/06/2019
+10,Apartamento,Venda,São Luís/MA,Calhau,0,0,1,270000,Pereira Feitosa,23/06/2019
+11,Casa,Venda,São Luís/MA,COHAB Anil IV,3,1,2,160000,Pereira Feitosa,23/06/2019
+12,Apartamento,Venda,São Luís/MA,Areinha,2,0,1,210000,Pereira Feitosa,23/06/2019
+13,Casa,Venda,São Luís/MA,Parque Timbiras,2,1,2,300000,Pereira Feitosa,23/06/2019
+14,Apartamento,Venda,São Luís/MA,Cohama,2,0,1,150000,Pereira Feitosa,23/06/2019
+15,Casa,Venda,São Luís/MA,Turu,2,1,4,560000,Pereira Feitosa,23/06/2019
+16,Casa,Venda,São Luís/MA,Quintas do Calhau,3,3,2,1600000,Pereira Feitosa,23/06/2019
+17,Apartamento,Venda,São Luís/MA,Calhau,3,3,3,900000,Pereira Feitosa,23/06/2019
+18,Apartamento,Venda,São Luís/MA,Calhau,3,3,0,950000,Pereira Feitosa,23/06/2019
+19,Casa,Venda,São Luís/MA,Recanto Vinhais,3,1,0,400000,Pereira Feitosa,23/06/2019
+20,Casa,Venda,São José de Ribamar/MA,Araçagy,3,1,6,340000,Pereira Feitosa,23/06/2019
+21,Apartamento,Venda,São Luís/MA,Turu,2,0,1,115000,Pereira Feitosa,23/06/2019
+22,Casa,Venda,São Luís/MA,Parque Athenas,4,1,3,350000,Pereira Feitosa,23/06/2019
+23,Casa,Venda,São Luís/MA,Chácara Brasil,3,2,4,480000,Pereira Feitosa,23/06/2019
+24,Casa,Venda,São Luís/MA,Cohama,3,3,0,350000,Pereira Feitosa,23/06/2019
+25,Casa,Venda,São Luís/MA,Olho D Água,5,4,14,1400000,Pereira Feitosa,23/06/2019
+26,Casa,Venda,São Luís/MA,Olho D Água,4,4,3,980000,Pereira Feitosa,23/06/2019
+27,Casa,Venda,São Luís/MA,São Francisco,2,0,1,250000,Pereira Feitosa,23/06/2019
+28,Casa,Venda,São Luís/MA,Conjunto dos Ipês,0,0,2,600000,Pereira Feitosa,23/06/2019
+29,Apartamento,Venda,São Luís/MA,Jardim Renascença,1,0,1,250000,Pereira Feitosa,23/06/2019
+30,Casa,Venda,Paço do Lumiar/MA,Maiobão,3,1,3,210000,Pereira Feitosa,23/06/2019
+31,Casa,Venda,São Luís/MA,Turu,3,1,2,330000,Pereira Feitosa,23/06/2019
+32,Casa,Venda,São Luís/MA,Cohafuma,3,0,2,380000,Pereira Feitosa,23/06/2019
+33,Casa,Venda,São Luís/MA,Ipase,0,0,2,250000,Pereira Feitosa,23/06/2019
+34,Casa,Venda,São José de Ribamar/MA,Araçagy,3,3,4,550000,Pereira Feitosa,23/06/2019
+35,Apartamento,Venda,São Luís/MA,Ponta da areia,0,0,0,750000,Pereira Feitosa,23/06/2019
+36,Apartamento,Venda,São Luís/MA,Ponta D Areia,2,2,3,1300000,Pereira Feitosa,23/06/2019
+37,Apartamento,Venda,São Luís/MA,Santo Antônio,0,0,0,90000,Pereira Feitosa,23/06/2019
+38,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,4,3,3,510000,Pereira Feitosa,23/06/2019
+39,Casa,Venda,São Luís/MA,Parque Athenas,0,0,0,450000,Pereira Feitosa,23/06/2019
+40,Apartamento,Venda,São Luís/MA,Cohama,2,0,1,150000,Pereira Feitosa,23/06/2019
+41,Casa,Venda,São Luís/MA,Recanto Vinhais,2,1,5,390000,Pereira Feitosa,23/06/2019
+42,Apartamento,Venda,São Luís/MA,COHAB Anil I,1,0,1,115000,Pereira Feitosa,23/06/2019
+43,Casa,Venda,Paço do Lumiar/MA,Maiobão,2,0,2,130000,Pereira Feitosa,23/06/2019
+44,Casa,Venda,São José de Ribamar/MA,Parque Vitória,3,0,1,150000,Pereira Feitosa,23/06/2019
+45,Apartamento,Venda,São Luís/MA,Ponta D’areia,3,0,0,430000,Pereira Feitosa,23/06/2019
+46,Apartamento,Venda,São Luís/MA,Calhau,0,0,0,700000,Pereira Feitosa,23/06/2019
+47,Casa,Venda,São José de Ribamar/MA,Araçagy,4,1,8,1700000,Pereira Feitosa,23/06/2019
+48,Casa,Venda,São Luís/MA,Recanto Vinhais,0,0,0,750000,Pereira Feitosa,23/06/2019
+49,Apartamento,Venda,São Luís/MA,Ponta D Areia,4,4,4,1400000,Pereira Feitosa,23/06/2019
+50,Casa,Venda,São Luís/MA,Vinhais,2,1,2,300000,Pereira Feitosa,23/06/2019
+51,Casa,Venda,São Luís/MA,Cohafuma,2,1,0,500000,Pereira Feitosa,23/06/2019
+52,Casa,Venda,São Luís/MA,Recanto dos Vinhais,2,0,3,360000,Pereira Feitosa,23/06/2019
+53,Casa,Venda,São Luís/MA,Maranhão Novo,3,0,1,280000,Pereira Feitosa,23/06/2019
+54,Casa,Venda,São Luís/MA,Olho D Água,0,0,0,600000,Pereira Feitosa,23/06/2019
+55,Apartamento,Venda,São Luís/MA,Renascença,1,0,0,100000,Pereira Feitosa,23/06/2019
+56,Casa,Venda,São Luís/MA,Residencial Vinhais II,3,0,1,380000,Pereira Feitosa,23/06/2019
+57,Casa,Venda,São Luís/MA,Santa Cruz,2,1,0,280000,Pereira Feitosa,23/06/2019
+58,Casa,Venda,São Luís/MA,Quintas do Calhau,4,4,6,1600000,Pereira Feitosa,23/06/2019
+59,Apartamento,Venda,São Luís/MA,Turu,2,1,1,180000,Pereira Feitosa,23/06/2019
+60,Apartamento,Venda,São Luís/MA,Olho D Água,3,1,0,750000,Pereira Feitosa,23/06/2019
+61,Apartamento,Venda,São Luís/MA,Calhau,3,3,2,950000,Pereira Feitosa,23/06/2019
+62,Casa,Venda,São Luís/MA,Turu,2,2,3,500000,Pereira Feitosa,23/06/2019
+63,Casa,Venda,São Luís/MA,Jardim Eldorado,5,5,10,2300000,Pereira Feitosa,23/06/2019
+64,Casa,Venda,São Luís/MA,Olho D Água,0,0,0,1400000,Pereira Feitosa,23/06/2019
+65,Apartamento,Venda,São Luís/MA,Angelim,2,0,0,115000,Pereira Feitosa,23/06/2019
+66,Casa,Venda,São Luís/MA,Ipase,0,0,0,500000,Pereira Feitosa,23/06/2019
+67,Casa,Venda,São Luís/MA,Vinhais,2,2,3,450000,Pereira Feitosa,23/06/2019
+68,Casa,Venda,São Luís/MA,Ponta do Farol,5,0,5,2500000,Pereira Feitosa,23/06/2019
+69,Casa,Venda,São Luís/MA,Recanto Vinhais,3,1,4,450000,Pereira Feitosa,23/06/2019
+70,Casa,Venda,São Luís/MA,Ipase,3,1,3,400000,Pereira Feitosa,23/06/2019
+71,Casa,Venda,São Luís/MA,Parque Shalon,3,2,4,510000,Pereira Feitosa,23/06/2019
+72,Casa,Venda,São Luís/MA,Alto do Calhau,3,2,2,420000,Pereira Feitosa,23/06/2019
+73,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,3,1,0,1500000,Pereira Feitosa,23/06/2019
+74,Casa,Venda,Paço do Lumiar/MA,Araçagy,3,1,1,350000,Pereira Feitosa,23/06/2019
+75,Casa,Venda,São Luís/MA,João de Deus,2,1,2,250000,Pereira Feitosa,23/06/2019
+76,Casa,Venda,São Luís/MA,Olho D Água,8,8,5,14000000,Pereira Feitosa,23/06/2019
+77,Casa,Venda,São Luís/MA,Turu,1,1,2,330000,Pereira Feitosa,23/06/2019
+78,Casa,Venda,São Luís/MA,Calhau,3,3,6,1500000,Pereira Feitosa,23/06/2019
+79,Casa,Venda,São Luís/MA,Olho D Água,4,4,4,1850000,Pereira Feitosa,23/06/2019
+80,Casa,Venda,São Luís/MA,João Paulo,3,1,4,1000000,Pereira Feitosa,23/06/2019
+81,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,1,450000,Pereira Feitosa,23/06/2019
+82,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,250000,Pereira Feitosa,23/06/2019
+83,Apartamento,Venda,São Luís/MA,Ponta da areia,2,2,0,1100000,Pereira Feitosa,23/06/2019
+84,Casa,Venda,São Luís/MA,Alemanha,2,2,0,160000,Pereira Feitosa,23/06/2019
+85,Casa,Venda,São Luís/MA,Madre Deus,2,0,0,85000,Pereira Feitosa,23/06/2019
+86,Casa,Venda,São José de Ribamar/MA,Araçagy,2,1,3,500000,Pereira Feitosa,23/06/2019
+87,Apartamento,Venda,São Luís/MA,Olho D Água,4,4,4,2500000,Pereira Feitosa,23/06/2019
+88,Casa,Venda,São Luís/MA,Quintas do Calhau,3,3,2,500000,Pereira Feitosa,23/06/2019
+89,Casa,Venda,São José de Ribamar/MA,Araçagy,4,4,8,950000,Pereira Feitosa,23/06/2019
+90,Casa,Venda,São Luís/MA,Cohatrac IV,3,1,2,280000,Pereira Feitosa,23/06/2019
+91,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,2,550000,Pereira Feitosa,23/06/2019
+92,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,0,2,280000,Pereira Feitosa,23/06/2019
+93,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,4,450000,Pereira Feitosa,23/06/2019
+94,Apartamento,Venda,São Luís/MA,Ponta do Farol,4,3,2,850000,Pereira Feitosa,23/06/2019
+95,Casa,Venda,São Luís/MA,Cidade Operária,3,1,0,280000,Pereira Feitosa,23/06/2019
+96,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,2,400000,Pereira Feitosa,23/06/2019
+97,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,260000,Pereira Feitosa,23/06/2019
+98,Casa,Venda,São Luís/MA,Parque Athenas,2,2,6,590000,Pereira Feitosa,23/06/2019
+99,Casa,Venda,São Luís/MA,Olho D Água,4,4,3,1800000,Pereira Feitosa,23/06/2019
+100,Casa,Venda,São Luís/MA,Parque Universitário,4,2,5,500000,Pereira Feitosa,23/06/2019
+101,Casa,Venda,São Luís/MA,Parque Aurora,2,1,3,380000,Pereira Feitosa,23/06/2019
+102,Casa,Venda,São Luís/MA,Jardim Renascença,3,0,3,800000,Pereira Feitosa,23/06/2019
+103,Casa,Venda,São Luís/MA,Calhau,3,3,3,1300000,Pereira Feitosa,23/06/2019
+104,Apartamento,Venda,São José de Ribamar/MA,Araçagy,1,1,1,170000,Pereira Feitosa,23/06/2019
+105,Casa,Venda,São Luís/MA,Vinhais,3,2,4,420000,Pereira Feitosa,23/06/2019
+106,Casa,Venda,São Luís/MA,Centro,3,0,1,180000,Pereira Feitosa,23/06/2019
+107,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,2,2,600000,Pereira Feitosa,23/06/2019
+108,Casa,Venda,São Luís/MA,Jardim São Francisco,4,1,4,550000,Pereira Feitosa,23/06/2019
+109,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,3,3,1200000,Pereira Feitosa,23/06/2019
+110,Casa,Venda,São Luís/MA,Calhau,5,5,4,2800000,Pereira Feitosa,23/06/2019
+111,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,2,640000,Pereira Feitosa,23/06/2019
+112,Casa,Venda,São Luís/MA,COHAB Anil I,5,0,0,395000,Pereira Feitosa,23/06/2019
+113,Casa,Venda,São Luís/MA,Olho D Água,4,4,0,2000000,Pereira Feitosa,23/06/2019
+114,Apartamento,Venda,São Luís/MA,Jardim Renascença,1,0,0,180000,Pereira Feitosa,23/06/2019
+115,Apartamento,Venda,São Luís/MA,Turu,2,1,1,130000,Pereira Feitosa,23/06/2019
+116,Casa,Venda,São José de Ribamar/MA,Araçagy,4,0,0,600000,Pereira Feitosa,23/06/2019
+117,Casa,Venda,São Luís/MA,Tirirical,3,1,3,320000,Pereira Feitosa,23/06/2019
+118,Casa,Venda,São Luís/MA,Calhau,8,0,10,1000000,Pereira Feitosa,23/06/2019
+119,Casa,Venda,São José de Ribamar/MA,Araçagy,2,2,2,380000,Pereira Feitosa,23/06/2019
+120,Apartamento,Venda,São Luís/MA,Parque Athenas,3,2,2,300000,Pereira Feitosa,23/06/2019
+121,Casa,Venda,São Luís/MA,Calhau,2,1,4,980000,Pereira Feitosa,23/06/2019
+122,Casa,Venda,São José de Ribamar/MA,Araçagy,5,3,8,1200000,Pereira Feitosa,23/06/2019
+123,Casa,Venda,São José de Ribamar/MA,Alto Do Jaguarema,3,1,2,260000,Pereira Feitosa,23/06/2019
+124,Casa,Venda,São Luís/MA,Olho D Água,3,3,3,425000,Pereira Feitosa,23/06/2019
+125,Casa,Venda,São Luís/MA,Cidade Operária,4,2,5,420000,Pereira Feitosa,23/06/2019
+126,Casa,Venda,São Luís/MA,Turu,1,1,2,320000,Pereira Feitosa,23/06/2019
+127,Casa,Venda,São José de Ribamar/MA,Araçagy,1,1,4,270000,Pereira Feitosa,23/06/2019
+128,Casa,Venda,São Luís/MA,Centro,4,2,0,600000,Pereira Feitosa,23/06/2019
+129,Casa,Venda,São Luís/MA,Solar dos Lusitanos,2,1,3,420000,Pereira Feitosa,23/06/2019
+130,Casa,Venda,São Luís/MA,Jardim Eldorado,4,4,4,700000,Pereira Feitosa,23/06/2019
+131,Casa,Venda,São Luís/MA,Jardim Renascença,4,2,4,600000,Pereira Feitosa,23/06/2019
+132,Casa,Venda,São Luís/MA,Centro,3,0,0,180000,Pereira Feitosa,23/06/2019
+133,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,2,2,750000,Pereira Feitosa,23/06/2019
+134,Casa,Venda,São Luís/MA,Recanto dos Nobres,2,1,4,420000,Pereira Feitosa,23/06/2019
+135,Apartamento,Venda,São Luís/MA,Quintas do Calhau,1,1,1,135000,Pereira Feitosa,23/06/2019
+136,Casa,Venda,São Luís/MA,Parque Universitário,3,0,2,280000,Pereira Feitosa,23/06/2019
+137,Casa,Venda,São Luís/MA,Cohama,5,3,0,480000,Pereira Feitosa,23/06/2019
+138,Apartamento,Venda,São Luís/MA,São Marcos,3,3,2,1100000,Pereira Feitosa,23/06/2019
+139,Apartamento,Venda,São Luís/MA,São Marcos,4,4,3,1900000,Pereira Feitosa,23/06/2019
+140,Apartamento,Venda,São Luís/MA,Renascença,4,4,3,990000,Pereira Feitosa,23/06/2019
+141,Casa,Venda,São Luís/MA,Planalto Anil,3,1,0,320000,Pereira Feitosa,23/06/2019
+142,Apartamento,Venda,São Luís/MA,Turu,2,0,1,135000,Pereira Feitosa,23/06/2019
+143,Casa,Venda,São Luís/MA,Turu,5,2,2,600000,Pereira Feitosa,23/06/2019
+144,Apartamento,Venda,São Luís/MA,Anil,2,0,1,160000,Pereira Feitosa,23/06/2019
+145,Casa,Venda,São Luís/MA,Centro,3,3,0,350000,Pereira Feitosa,23/06/2019
+146,Casa,Venda,São Luís/MA,Cidade Operária,5,4,3,900000,Pereira Feitosa,23/06/2019
+147,Casa,Venda,São Luís/MA,COHAB Anil IV,3,1,2,210000,Pereira Feitosa,23/06/2019
+148,Apartamento,Venda,São Luís/MA,Anil,1,0,1,160000,Pereira Feitosa,23/06/2019
+149,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,5,4,0,1750000,Pereira Feitosa,23/06/2019
+150,Apartamento,Venda,São Luís/MA,Turu,3,1,1,195000,Pereira Feitosa,23/06/2019
+151,Casa,Venda,São Luís/MA,Parque Timbiras,2,1,0,390000,Pereira Feitosa,23/06/2019
+152,Casa,Venda,São Luís/MA,Quintas do Calhau,6,6,4,2000000,Pereira Feitosa,23/06/2019
+153,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,0,1,360000,Pereira Feitosa,23/06/2019
+154,Casa,Venda,São Luís/MA,Planalto Vinhais II,4,4,3,680000,Pereira Feitosa,23/06/2019
+155,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,650000,Pereira Feitosa,23/06/2019
+156,Apartamento,Venda,São Luís/MA,Jardim São Francisco,2,1,0,550000,Pereira Feitosa,23/06/2019
+157,Casa,Venda,São Luís/MA,Planalto Pingão,3,0,0,260000,Pereira Feitosa,23/06/2019
+158,Apartamento,Venda,São Luís/MA,Cohafuma,3,0,1,210000,Pereira Feitosa,23/06/2019
+159,Casa,Venda,São José de Ribamar/MA,Maiobão,3,1,5,350000,Pereira Feitosa,23/06/2019
+160,Casa,Venda,São Luís/MA,Fátima,3,0,1,300000,Pereira Feitosa,23/06/2019
+161,Casa,Venda,São Luís/MA,Chácara Brasil,2,2,2,490000,Pereira Feitosa,23/06/2019
+162,Apartamento,Venda,São Luís/MA,Calhau,4,2,2,830000,Pereira Feitosa,23/06/2019
+163,Apartamento,Venda,São Luís/MA,Calhau,1,0,1,195000,Pereira Feitosa,23/06/2019
+164,Apartamento,Venda,São José de Ribamar/MA,Araçagy,2,0,1,205000,Pereira Feitosa,23/06/2019
+165,Casa,Venda,São José de Ribamar/MA,Araçagy,3,2,6,800000,Pereira Feitosa,23/06/2019
+166,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,4,2,0,350000,Pereira Feitosa,23/06/2019
+167,Apartamento,Venda,São Luís/MA,Parque Shalon,3,1,1,330000,Pereira Feitosa,23/06/2019
+168,Casa,Venda,Paço do Lumiar/MA,Araçagy,4,4,8,750000,Pereira Feitosa,23/06/2019
+169,Apartamento,Venda,São Luís/MA,Calhau,4,4,4,3500000,Pereira Feitosa,23/06/2019
+170,Apartamento,Venda,São Luís/MA,Cohafuma,2,1,1,370000,Pereira Feitosa,23/06/2019
+171,Casa,Venda,São Luís/MA,Apeadouro,2,1,3,400000,Pereira Feitosa,23/06/2019
+172,Casa,Venda,São Luís/MA,Cohatrac,3,0,0,260000,Pereira Feitosa,23/06/2019
+173,Apartamento,Venda,São Luís/MA,Apicum,2,0,1,180000,Pereira Feitosa,23/06/2019
+174,Casa,Venda,São José de Ribamar/MA,Renascer,2,2,2,600000,Pereira Feitosa,23/06/2019
+175,Casa,Venda,São Luís/MA,Alto do Calhau,3,3,5,380000,Pereira Feitosa,23/06/2019
+176,Casa,Venda,São Luís/MA,Cohatrac IV,3,1,3,270000,Pereira Feitosa,23/06/2019
+177,Apartamento,Venda,São Luís/MA,Ponta da areia,4,2,0,1250000,Pereira Feitosa,23/06/2019
+178,Casa,Venda,São Luís/MA,Jardim Eldorado,3,2,4,350000,Pereira Feitosa,23/06/2019
+179,Casa,Venda,São Luís/MA,Olho D Água,3,1,50,1200000,Pereira Feitosa,23/06/2019
+180,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,4,4,0,700000,Pereira Feitosa,23/06/2019
+181,Apartamento,Venda,São Luís/MA,Bequimão,2,0,0,90000,Pereira Feitosa,23/06/2019
+182,Apartamento,Venda,São Luís/MA,Ponta do Farol,3,3,3,1200000,Pereira Feitosa,23/06/2019
+183,Casa,Venda,São Luís/MA,Quintas do Calhau,4,3,0,750000,Pereira Feitosa,23/06/2019
+184,Apartamento,Venda,São Luís/MA,Olho D Água,2,1,2,400000,Pereira Feitosa,23/06/2019
+185,Casa,Venda,Paço do Lumiar/MA,Araçagy,2,2,0,1100000,Pereira Feitosa,23/06/2019
+186,Casa,Venda,São Luís/MA,Monte Castelo,3,1,4,300000,Pereira Feitosa,23/06/2019
+187,Casa,Venda,São José de Ribamar/MA,Araçagy,4,2,10,750000,Pereira Feitosa,23/06/2019
+188,Apartamento,Venda,São Luís/MA,Turu,2,0,1,130000,Pereira Feitosa,23/06/2019
+189,Casa,Venda,São Luís/MA,Cohatrac,4,2,2,450000,Pereira Feitosa,23/06/2019
+190,Casa,Venda,Paço do Lumiar/MA,Pindaí,2,0,2,120000,Pereira Feitosa,23/06/2019
+191,Apartamento,Venda,São Luís/MA,Araçagi,2,0,1,200000,Pereira Feitosa,23/06/2019
+192,Casa,Venda,São Luís/MA,COHAB Anil III,3,1,0,250000,Pereira Feitosa,23/06/2019
+193,Casa,Venda,São Luís/MA,Olho D Água,4,4,0,1500000,Pereira Feitosa,23/06/2019
+194,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,4,4,5,500000,Pereira Feitosa,23/06/2019
+195,Casa,Venda,São Luís/MA,Araçagi,3,1,4,370000,Pereira Feitosa,23/06/2019
+196,Apartamento,Venda,São Luís/MA,Maranhão Novo,2,0,1,160000,Pereira Feitosa,23/06/2019
+197,Casa,Venda,São Luís/MA,Planalto Vinhais I,4,2,2,500000,Pereira Feitosa,23/06/2019
+198,Casa,Venda,São José de Ribamar/MA,Araçagy,4,4,3,600000,Pereira Feitosa,23/06/2019
+199,Apartamento,Venda,São Luís/MA,Bequimão,2,0,1,90000,Pereira Feitosa,23/06/2019
+200,Casa,Venda,São Luís/MA,Monte Castelo,4,2,3,450000,Pereira Feitosa,23/06/2019
+201,Apartamento,Venda,São José de Ribamar/MA,Jardim Aracagy,2,1,1,180000,Pereira Feitosa,23/06/2019
+202,Casa,Venda,São Luís/MA,Anil,2,1,1,150000,Pereira Feitosa,23/06/2019
+203,Casa,Venda,São Luís/MA,COHAB Anil IV,3,2,2,300000,Pereira Feitosa,23/06/2019
+204,Casa,Venda,São José de Ribamar/MA,Altos do Turu II,2,0,2,160000,Pereira Feitosa,23/06/2019
+205,Casa,Venda,São Luís/MA,Planalto Anil Iv,3,0,1,200000,Pereira Feitosa,23/06/2019
+206,Casa,Venda,São José de Ribamar/MA,Altos do Turu II,3,1,4,260000,Pereira Feitosa,23/06/2019
+207,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+208,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,0,185000,Pereira Feitosa,23/06/2019
+209,Casa,Venda,São Luís/MA,Centro,3,0,0,100000,Pereira Feitosa,23/06/2019
+210,Casa,Venda,São Luís/MA,COHAB Anil IV,4,2,2,350000,Pereira Feitosa,23/06/2019
+211,Casa,Venda,São Luís/MA,Centro,1,0,0,90000,Pereira Feitosa,23/06/2019
+212,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,1,185000,Pereira Feitosa,23/06/2019
+213,Casa,Venda,São Luís/MA,Monte Castelo,0,0,0,400000,Pereira Feitosa,23/06/2019
+214,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,0,185000,Pereira Feitosa,23/06/2019
+215,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+216,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+217,Casa,Venda,São Luís/MA,Residencial Esperança,1,1,2,295000,Pereira Feitosa,23/06/2019
+218,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+219,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+220,Apartamento,Venda,São Luís/MA,Jardim São Francisco,1,1,1,250000,Pereira Feitosa,23/06/2019
+221,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,1,185000,Pereira Feitosa,23/06/2019
+222,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+223,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+224,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+225,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+226,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+227,Casa,Venda,São Luís/MA,Jardim São Francisco,3,3,0,890000,Pereira Feitosa,23/06/2019
+228,Apartamento,Venda,São Luís/MA,Cohama,3,1,2,405000,Pereira Feitosa,23/06/2019
+229,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,1,185000,Pereira Feitosa,23/06/2019
+230,Casa,Venda,São Luís/MA,Jardim Eldorado,2,1,2,450000,Pereira Feitosa,23/06/2019
+231,Casa,Venda,São Luís/MA,Forquilha,3,1,1,220000,Pereira Feitosa,23/06/2019
+232,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,0,185000,Pereira Feitosa,23/06/2019
+233,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,1,185000,Pereira Feitosa,23/06/2019
+234,Apartamento,Venda,São Luís/MA,Cohatrac,1,1,1,185000,Pereira Feitosa,23/06/2019
+235,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+236,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+237,Casa,Venda,São Luís/MA,Maranhão Novo,4,3,2,450000,Pereira Feitosa,23/06/2019
+238,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,0,3,1500000,Pereira Feitosa,23/06/2019
+239,Apartamento,Venda,São Luís/MA,Maiobinha,2,0,1,120000,Pereira Feitosa,23/06/2019
+240,Apartamento,Venda,São Luís/MA,Ipase,2,0,2,270000,Pereira Feitosa,23/06/2019
+241,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,0,2,870000,Pereira Feitosa,23/06/2019
+242,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,4,650000,Pereira Feitosa,23/06/2019
+243,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,3,2,870000,Pereira Feitosa,23/06/2019
+244,Casa,Venda,São José de Ribamar/MA,Alto Do Jaguarema,2,1,2,220000,Pereira Feitosa,23/06/2019
+245,Casa,Venda,São Luís/MA,Cohatrac,5,1,4,380000,Pereira Feitosa,23/06/2019
+246,Casa,Venda,São Luís/MA,Ipase,4,2,3,550000,Pereira Feitosa,23/06/2019
+247,Apartamento,Venda,São Luís/MA,Olho D Água,6,4,4,1000000,Pereira Feitosa,23/06/2019
+248,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,2,530000,Pereira Feitosa,23/06/2019
+249,Apartamento,Venda,São Luís/MA,Recanto Vinhais,3,0,1,300000,Pereira Feitosa,23/06/2019
+250,Casa,Venda,São Luís/MA,Cohama,4,0,0,380000,Pereira Feitosa,23/06/2019
+251,Casa,Venda,São Luís/MA,Centro,3,1,3,350000,Pereira Feitosa,23/06/2019
+252,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,2,450000,Pereira Feitosa,23/06/2019
+253,Casa,Venda,São Luís/MA,Vinhais,3,1,0,445000,Pereira Feitosa,23/06/2019
+254,Apartamento,Venda,São Luís/MA,Maiobinha,2,1,0,140000,Pereira Feitosa,23/06/2019
+255,Casa,Venda,São Luís/MA,Cidade Operária,3,0,0,200000,Pereira Feitosa,23/06/2019
+256,Apartamento,Venda,São José de Ribamar/MA,Araçagy,2,1,1,195000,Pereira Feitosa,23/06/2019
+257,Casa,Venda,São Luís/MA,Centro,4,3,2,650000,Pereira Feitosa,23/06/2019
+258,Casa,Venda,São José de Ribamar/MA,Araçagy,5,5,0,800000,Pereira Feitosa,23/06/2019
+259,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,4,3,2500000,Pereira Feitosa,23/06/2019
+260,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,0,720000,Pereira Feitosa,23/06/2019
+261,Apartamento,Venda,São Luís/MA,Ponta da areia,4,4,4,1700000,Pereira Feitosa,23/06/2019
+262,Casa,Venda,São Luís/MA,Maranhão Novo,3,1,2,300000,Pereira Feitosa,23/06/2019
+263,Apartamento,Venda,São Luís/MA,Ponta do Farol,3,3,3,960000,Pereira Feitosa,23/06/2019
+264,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,2,680000,Pereira Feitosa,23/06/2019
+265,Apartamento,Venda,São Luís/MA,São Francisco,1,1,0,210000,Pereira Feitosa,23/06/2019
+266,Apartamento,Venda,São Luís/MA,Cohafuma,0,0,0,190000,Pereira Feitosa,23/06/2019
+267,Casa,Venda,São Luís/MA,Jardim São Cristovão II,2,1,2,250000,Pereira Feitosa,23/06/2019
+268,Apartamento,Venda,São Luís/MA,Turu,2,0,1,100000,Pereira Feitosa,23/06/2019
+269,Casa,Venda,São Luís/MA,Araçagi,4,1,4,350000,Pereira Feitosa,23/06/2019
+270,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,0,700000,Pereira Feitosa,23/06/2019
+271,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,2,2,430000,Pereira Feitosa,23/06/2019
+272,Casa,Venda,São Luís/MA,Recanto dos Vinhais,4,4,2,600000,Pereira Feitosa,23/06/2019
+273,Casa,Venda,São Luís/MA,Quintas do Calhau,7,7,0,2000000,Pereira Feitosa,23/06/2019
+274,Casa,Venda,São Luís/MA,São Francisco,0,0,1,350000,Pereira Feitosa,23/06/2019
+275,Apartamento,Venda,São Luís/MA,Ponta do Farol,5,5,3,2800000,Pereira Feitosa,23/06/2019
+276,Casa,Venda,São Luís/MA,Turu,0,0,0,480000,Pereira Feitosa,23/06/2019
+277,Casa,Venda,São Luís/MA,Ponta do Farol,0,0,0,4200000,Pereira Feitosa,23/06/2019
+278,Casa,Venda,Paço do Lumiar/MA,Vila Roseana Sarney,0,0,4,450000,Pereira Feitosa,23/06/2019
+279,Casa,Venda,São Luís/MA,Olho D Água,4,4,4,650000,Pereira Feitosa,23/06/2019
+280,Casa,Venda,Paço do Lumiar/MA,Araçagy,3,2,2,270000,Pereira Feitosa,23/06/2019
+281,Casa,Venda,São Luís/MA,Cohama,3,1,2,352000,Pereira Feitosa,23/06/2019
+282,Apartamento,Venda,São Luís/MA,Caolho,0,0,0,490000,Pereira Feitosa,23/06/2019
+283,Casa,Venda,São Luís/MA,Central Parque,0,0,0,843000,Pereira Feitosa,23/06/2019
+284,Apartamento,Venda,São Luís/MA,Turu,2,1,0,280000,Pereira Feitosa,23/06/2019
+285,Casa,Venda,São Luís/MA,Olho D Água,2,1,7,850000,Pereira Feitosa,23/06/2019
+286,Casa,Venda,São Luís/MA,Cohapam,3,1,3,230000,Pereira Feitosa,23/06/2019
+287,Casa,Venda,São Luís/MA,Centro,7,0,0,1200000,Pereira Feitosa,23/06/2019
+288,Casa,Venda,São Luís/MA,Solar dos Lusitanos,4,4,0,400000,Pereira Feitosa,23/06/2019
+289,Casa,Venda,São Luís/MA,Parque Atlântico,4,4,6,1300000,Pereira Feitosa,23/06/2019
+290,Casa,Venda,São Luís/MA,Araçagi,4,3,12,1100000,Pereira Feitosa,23/06/2019
+291,Casa,Venda,São Luís/MA,Cohama,6,2,2,650000,Pereira Feitosa,23/06/2019
+292,Casa,Venda,São Luís/MA,Centro,0,0,0,180000,Pereira Feitosa,23/06/2019
+293,Casa,Venda,São Luís/MA,Jardim São Cristovão II,1,1,0,250000,Pereira Feitosa,23/06/2019
+294,Casa,Venda,São Luís/MA,Turu,3,1,2,550000,Pereira Feitosa,23/06/2019
+295,Casa,Venda,São Luís/MA,Centro,0,0,0,180000,Pereira Feitosa,23/06/2019
+296,Casa,Venda,São Luís/MA,Calhau,7,7,0,11000000,Pereira Feitosa,23/06/2019
+297,Casa,Venda,São Luís/MA,Turu,2,1,2,400000,Pereira Feitosa,23/06/2019
+298,Apartamento,Venda,São Luís/MA,Turu,2,1,1,295000,Pereira Feitosa,23/06/2019
+299,Casa,Venda,São Luís/MA,Turu,3,3,4,550000,Pereira Feitosa,23/06/2019
+300,Apartamento,Venda,São Luís/MA,Turu,2,1,1,170000,Pereira Feitosa,23/06/2019
+301,Casa,Venda,São Luís/MA,Turu,2,1,3,350000,Pereira Feitosa,23/06/2019
+302,Apartamento,Venda,São Luís/MA,Turu,1,1,1,170000,Pereira Feitosa,23/06/2019
+303,Casa,Venda,São Luís/MA,Cohatrac IV,3,2,2,290000,Pereira Feitosa,23/06/2019
+304,Casa,Venda,São Luís/MA,Vinhais,5,2,2,480000,Pereira Feitosa,23/06/2019
+305,Casa,Venda,São Luís/MA,Recanto Vinhais,4,3,3,670000,Pereira Feitosa,23/06/2019
+306,Casa,Venda,São Luís/MA,Vinhais,3,2,0,550000,Pereira Feitosa,23/06/2019
+307,Apartamento,Venda,São Luís/MA,São Francisco,4,4,0,300000,Pereira Feitosa,23/06/2019
+308,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,2,2,650000,Pereira Feitosa,23/06/2019
+309,Casa,Venda,São Luís/MA,Turu,2,2,3,280000,Pereira Feitosa,23/06/2019
+310,Casa,Venda,São Luís/MA,Chácara Brasil,6,5,0,550000,Pereira Feitosa,23/06/2019
+311,Casa,Venda,São Luís/MA,Cidade Operária,4,2,0,300000,Pereira Feitosa,23/06/2019
+312,Casa,Venda,São Luís/MA,Cohatrac,2,1,0,250000,Pereira Feitosa,23/06/2019
+313,Casa,Venda,São Luís/MA,Calhau,4,2,0,1800000,Pereira Feitosa,23/06/2019
+314,Casa,Venda,São Luís/MA,Jardim Bela Vista,0,0,2,650000,Pereira Feitosa,23/06/2019
+315,Casa,Venda,São Luís/MA,Turu,1,0,0,110000,Pereira Feitosa,23/06/2019
+316,Apartamento,Venda,São José de Ribamar/MA,São José de Ribamar,1,1,0,200000,Pereira Feitosa,23/06/2019
+317,Casa,Venda,São Luís/MA,Recanto Vinhais,4,2,3,400000,Pereira Feitosa,23/06/2019
+318,Casa,Venda,São Luís/MA,Recanto Vinhais,0,0,2,530000,Pereira Feitosa,23/06/2019
+319,Casa,Venda,São Luís/MA,Anil,2,0,1,1000000,Pereira Feitosa,23/06/2019
+320,Casa,Venda,São Luís/MA,Recanto Vinhais,4,3,2,350000,Pereira Feitosa,23/06/2019
+321,Casa,Venda,São Luís/MA,Jardim Eldorado,5,5,0,2200000,Pereira Feitosa,23/06/2019
+322,Casa,Venda,São Luís/MA,Cohatrac,0,0,0,225000,Pereira Feitosa,23/06/2019
+323,Casa,Venda,São Luís/MA,Cohafuma,3,1,4,500000,Pereira Feitosa,23/06/2019
+324,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,3,2,675000,Pereira Feitosa,23/06/2019
+325,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,2,2,820000,Pereira Feitosa,23/06/2019
+326,Casa,Venda,São Luís/MA,Planalto Pingão,4,3,2,250000,Pereira Feitosa,23/06/2019
+327,Casa,Venda,São Luís/MA,Calhau,0,0,0,800000,Pereira Feitosa,23/06/2019
+328,Casa,Venda,São José de Ribamar/MA,Araçagy,3,1,3,530000,Pereira Feitosa,23/06/2019
+329,Casa,Venda,São Luís/MA,Calhau,4,2,6,750000,Pereira Feitosa,23/06/2019
+330,Casa,Venda,São José de Ribamar/MA,Araçagy,5,3,5,870000,Pereira Feitosa,23/06/2019
+331,Apartamento,Venda,São Luís/MA,Cohafuma,2,0,1,150000,Pereira Feitosa,23/06/2019
+332,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,2,790000,Pereira Feitosa,23/06/2019
+333,Casa,Venda,São Luís/MA,Cohafuma,3,2,6,400000,Pereira Feitosa,23/06/2019
+334,Casa,Venda,São Luís/MA,Jardim São Francisco,5,5,9,1500000,Pereira Feitosa,23/06/2019
+335,Casa,Venda,São Luís/MA,Recanto dos Nobres,2,1,0,450000,Pereira Feitosa,23/06/2019
+336,Casa,Venda,São José de Ribamar/MA,Araçagy,3,1,2,400000,Pereira Feitosa,23/06/2019
+337,Apartamento,Venda,São Luís/MA,Ponta da areia,1,0,1,250000,Pereira Feitosa,23/06/2019
+338,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,300000,Pereira Feitosa,23/06/2019
+339,Casa,Venda,São Luís/MA,Jardim Eldorado,5,4,9,2000000,Pereira Feitosa,23/06/2019
+340,Casa,Venda,São Luís/MA,Vinhais,3,2,2,250000,Pereira Feitosa,23/06/2019
+341,Casa,Venda,São Luís/MA,Chácara Brasil,2,1,0,500000,Pereira Feitosa,23/06/2019
+342,Apartamento,Venda,São Luís/MA,Cohama,1,1,1,180000,Pereira Feitosa,23/06/2019
+343,Casa,Venda,São Luís/MA,Maranhão Novo,5,4,0,1500000,Pereira Feitosa,23/06/2019
+344,Casa,Venda,São Luís/MA,Quintas do Calhau,5,4,7,3000000,Pereira Feitosa,23/06/2019
+345,Casa,Venda,São Luís/MA,Ipase,0,0,0,300000,Pereira Feitosa,23/06/2019
+346,Casa,Venda,São Luís/MA,Centro,0,0,0,250000,Pereira Feitosa,23/06/2019
+347,Casa,Venda,São Luís/MA,COHAB Anil IV,2,1,2,300000,Pereira Feitosa,23/06/2019
+348,Casa,Venda,São Luís/MA,Cidade Operária,3,1,2,280000,Pereira Feitosa,23/06/2019
+349,Casa,Venda,São Luís/MA,Jardim Renascença,3,2,3,600000,Pereira Feitosa,23/06/2019
+350,Casa,Venda,São Luís/MA,Angelim,0,0,0,250000,Pereira Feitosa,23/06/2019
+351,Apartamento,Venda,São Luís/MA,Jardim São Francisco,1,1,1,230000,Pereira Feitosa,23/06/2019
+352,Casa,Venda,São Luís/MA,Parque Universitário,3,1,0,270000,Pereira Feitosa,23/06/2019
+353,Casa,Venda,São Luís/MA,Planalto Vinhais II,5,5,2,800000,Pereira Feitosa,23/06/2019
+354,Casa,Venda,São Luís/MA,Araçagi,3,2,3,370000,Pereira Feitosa,23/06/2019
+355,Casa,Venda,São Luís/MA,Cohafuma,2,1,3,900000,Pereira Feitosa,23/06/2019
+356,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,0,490000,Pereira Feitosa,23/06/2019
+357,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,2,550000,Pereira Feitosa,23/06/2019
+358,Casa,Venda,São Luís/MA,Ipase,3,1,0,280000,Pereira Feitosa,23/06/2019
+359,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,0,409000,Pereira Feitosa,23/06/2019
+360,Apartamento,Venda,São Luís/MA,Parque Athenas,2,1,1,160000,Pereira Feitosa,23/06/2019
+361,Apartamento,Venda,São Luís/MA,Quitandinha,3,2,0,350000,Pereira Feitosa,23/06/2019
+362,Apartamento,Venda,São Luís/MA,Renascença,1,0,1,110000,Pereira Feitosa,23/06/2019
+363,Casa,Venda,São Luís/MA,Cohama,4,2,2,550000,Pereira Feitosa,23/06/2019
+364,Apartamento,Venda,São Luís/MA,Calhau,2,2,2,260000,Pereira Feitosa,23/06/2019
+365,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,1,0,190000,Pereira Feitosa,23/06/2019
+366,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,1,0,190000,Pereira Feitosa,23/06/2019
+367,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,1,0,190000,Pereira Feitosa,23/06/2019
+368,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,1,0,190000,Pereira Feitosa,23/06/2019
+369,Casa,Venda,São Luís/MA,Cohafuma,4,2,0,460000,Pereira Feitosa,23/06/2019
+370,Apartamento,Venda,São Luís/MA,Turu,0,0,0,90000,Pereira Feitosa,23/06/2019
+371,Casa,Venda,São Luís/MA,Planalto Vinhais II,0,0,0,330000,Pereira Feitosa,23/06/2019
+372,Casa,Venda,São Luís/MA,Cohajap,5,2,3,990000,Pereira Feitosa,23/06/2019
+373,Casa,Venda,São Luís/MA,Residencial Araras,0,0,0,310000,Pereira Feitosa,23/06/2019
+374,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,1,1,250000,Pereira Feitosa,23/06/2019
+375,Casa,Venda,São Luís/MA,João Paulo,3,0,0,300000,Pereira Feitosa,23/06/2019
+376,Apartamento,Venda,São Luís/MA,Recanto dos Vinhais,0,0,0,180000,Pereira Feitosa,23/06/2019
+377,Apartamento,Venda,São Luís/MA,Santo Antônio,0,0,0,90000,Pereira Feitosa,23/06/2019
+378,Apartamento,Venda,São Luís/MA,Jardim Coelho Neto,0,0,1,450000,Pereira Feitosa,23/06/2019
+379,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,1,2,800000,Pereira Feitosa,23/06/2019
+380,Casa,Venda,São José de Ribamar/MA,Araçagy,0,0,0,500000,Pereira Feitosa,23/06/2019
+381,Casa,Venda,São Luís/MA,Olho D Água,3,2,4,3000000,Pereira Feitosa,23/06/2019
+382,Apartamento,Venda,São Luís/MA,São Francisco,2,1,1,150000,Pereira Feitosa,23/06/2019
+383,Casa,Venda,São Luís/MA,Centro,0,0,0,500000,Pereira Feitosa,23/06/2019
+384,Casa,Venda,São Luís/MA,Chácara Brasil,3,3,6,750000,Pereira Feitosa,23/06/2019
+385,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,4,0,1300000,Pereira Feitosa,23/06/2019
+386,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,2,0,550000,Pereira Feitosa,23/06/2019
+387,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,1,550000,Pereira Feitosa,23/06/2019
+388,Casa,Venda,São Luís/MA,Ponta do Farol,2,0,8,3500000,Pereira Feitosa,23/06/2019
+389,Apartamento,Venda,São Luís/MA,Jardim Renascença,0,0,2,290000,Pereira Feitosa,23/06/2019
+390,Casa,Venda,São Luís/MA,Filipinho,0,0,0,380000,Pereira Feitosa,23/06/2019
+391,Casa,Venda,São Luís/MA,Centro,3,1,0,500000,Pereira Feitosa,23/06/2019
+392,Apartamento,Venda,São Luís/MA,Turu,3,1,2,320000,Pereira Feitosa,23/06/2019
+393,Casa,Venda,São José de Ribamar/MA,Parque Vitória,2,1,1,165000,Pereira Feitosa,23/06/2019
+394,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,0,2,260000,Pereira Feitosa,23/06/2019
+395,Casa,Venda,São Luís/MA,Quintas do Calhau,0,0,3,1700000,Pereira Feitosa,23/06/2019
+396,Casa,Venda,São Luís/MA,São Francisco,4,3,12,600000,Pereira Feitosa,23/06/2019
+397,Apartamento,Venda,São Luís/MA,Ponta da areia,1,0,1,220000,Pereira Feitosa,23/06/2019
+398,Casa,Venda,São Luís/MA,Olho D Água,0,0,0,800000,Pereira Feitosa,23/06/2019
+399,Casa,Venda,São Luís/MA,Quintas do Calhau,0,0,8,1350000,Pereira Feitosa,23/06/2019
